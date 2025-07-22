@@ -57,3 +57,5 @@
     <Name>Доллар США</Name>
     <Value>78,3274</Value>
 </Valute>
+✉ Почта для обратной связи:
+<a href="">krp77@mail.ru</a>
